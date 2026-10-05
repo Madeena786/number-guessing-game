@@ -1,0 +1,38 @@
+************************************
+       NUMBER GUESSING GAME
+************************************
+I have selected a number between 1 and 100.
+Try to guess the number!
+
+Enter your guess: 63
+Too high! Try a lower number.
+
+Enter your guess: 50
+Too high! Try a lower number.
+
+Enter your guess: 40
+Too high! Try a lower number.
+
+Enter your guess: 30
+Too high! Try a lower number.
+
+Enter your guess: 20
+Too low! Try a higher number.
+
+Enter your guess: 25
+Too high! Try a lower number.
+
+Enter your guess: 23
+Too high! Try a lower number.
+
+Enter your guess: 22
+Too high! Try a lower number.
+
+Enter your guess: 21
+
+Congratulations! You guessed the correct number.
+The number was: 21
+Number of attempts: 9
+************************************
+          GAME OVER
+************************************
